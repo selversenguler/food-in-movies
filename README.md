@@ -1,3 +1,4 @@
 # odin-recipes
-This website was made to showcase delicious food from the eating/prepping scenes of the movies that I selected.
-It's my first project and HTML is used.
+This website was made to showcase delicious <strong>food recipes</strong> from the eating/prepping scenes of the <strong>movies</strong> that I selected.
+<br>
+It's my <strong>first</strong> project and <strong>HTML</strong> is used.
